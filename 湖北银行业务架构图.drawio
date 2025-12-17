@@ -269,10 +269,18 @@
         <mxCell id="wn6hKRwQkjJUjXXkFMHj-28" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="音视频服务组（2台）&lt;div&gt;总线服务&lt;/div&gt;&lt;div&gt;核心服务&lt;/div&gt;&lt;div&gt;录像服务&lt;/div&gt;&lt;div&gt;监控服务&lt;/div&gt;&lt;div&gt;升级服务&lt;/div&gt;&lt;div&gt;接入服务&lt;/div&gt;" vertex="1">
           <mxGeometry height="118" width="118" x="-880" y="-534" as="geometry" />
         </mxCell>
-        <mxCell id="wn6hKRwQkjJUjXXkFMHj-85" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="wn6hKRwQkjJUjXXkFMHj-158" edge="1" parent="1" source="wn6hKRwQkjJUjXXkFMHj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wn6hKRwQkjJUjXXkFMHj-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wn6hKRwQkjJUjXXkFMHj-159" edge="1" parent="1" source="wn6hKRwQkjJUjXXkFMHj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wn6hKRwQkjJUjXXkFMHj-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wn6hKRwQkjJUjXXkFMHj-160" edge="1" parent="1" source="wn6hKRwQkjJUjXXkFMHj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="wn6hKRwQkjJUjXXkFMHj-66">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-821" y="-189" as="sourcePoint" />
-            <mxPoint x="-821" y="-295" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-811" y="10" />
+              <mxPoint x="-542" y="10" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wn6hKRwQkjJUjXXkFMHj-31" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="音视频服务组（2台）&lt;div&gt;总线服务&lt;/div&gt;&lt;div&gt;核心服务&lt;/div&gt;&lt;div&gt;录像服务&lt;/div&gt;&lt;div&gt;监控服务&lt;/div&gt;&lt;div&gt;升级服务&lt;/div&gt;&lt;div&gt;接入服务&lt;/div&gt;" vertex="1">
@@ -288,6 +296,9 @@
         </mxCell>
         <mxCell id="wn6hKRwQkjJUjXXkFMHj-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="业务服务组（2台）&lt;div&gt;业务服务&lt;/div&gt;&lt;div&gt;AI质检服务&lt;/div&gt;&lt;div&gt;签名服务&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="120" x="-710" y="-450" as="geometry" />
+        </mxCell>
+        <mxCell id="wn6hKRwQkjJUjXXkFMHj-161" edge="1" parent="1" source="wn6hKRwQkjJUjXXkFMHj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wn6hKRwQkjJUjXXkFMHj-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wn6hKRwQkjJUjXXkFMHj-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="业务服务组（2台）&lt;div&gt;业务服务&lt;/div&gt;&lt;div&gt;AI质检服务&lt;/div&gt;&lt;div&gt;签名服务&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="120" x="-710" y="-199.5" as="geometry" />
@@ -311,6 +322,33 @@
         </mxCell>
         <mxCell id="wn6hKRwQkjJUjXXkFMHj-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="智能双录服务组（2台）&lt;div&gt;nginx代理&lt;/div&gt;&lt;div&gt;智能双录应用&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="132" x="-530" y="-570" as="geometry" />
+        </mxCell>
+        <mxCell id="wn6hKRwQkjJUjXXkFMHj-164" edge="1" parent="1" source="wn6hKRwQkjJUjXXkFMHj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wn6hKRwQkjJUjXXkFMHj-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wn6hKRwQkjJUjXXkFMHj-165" edge="1" parent="1" source="wn6hKRwQkjJUjXXkFMHj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="wn6hKRwQkjJUjXXkFMHj-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wn6hKRwQkjJUjXXkFMHj-166" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-389" y="-194" />
+            </Array>
+            <mxPoint x="-389.00000000000045" y="-212" as="sourcePoint" />
+            <mxPoint x="-277" y="-194.24999999999955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wn6hKRwQkjJUjXXkFMHj-171" edge="1" parent="1" source="wn6hKRwQkjJUjXXkFMHj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="wn6hKRwQkjJUjXXkFMHj-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wn6hKRwQkjJUjXXkFMHj-174" edge="1" parent="1" source="wn6hKRwQkjJUjXXkFMHj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wn6hKRwQkjJUjXXkFMHj-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-389" y="-220" />
+              <mxPoint x="-350" y="-220" />
+              <mxPoint x="-350" y="-86" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wn6hKRwQkjJUjXXkFMHj-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="智能双录服务组（2台）&lt;div&gt;nginx代理&lt;/div&gt;&lt;div&gt;智能双录应用&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="132" x="-521" y="-225" as="geometry" />
@@ -337,6 +375,20 @@
         </mxCell>
         <mxCell id="wn6hKRwQkjJUjXXkFMHj-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="可回溯应用（2台）" vertex="1">
           <mxGeometry height="60" width="132" x="-530" y="-408.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wn6hKRwQkjJUjXXkFMHj-163" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-491" y="-54" as="sourcePoint" />
+            <mxPoint x="-492.00000000000045" y="-91.99999999999955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wn6hKRwQkjJUjXXkFMHj-167" edge="1" parent="1" source="wn6hKRwQkjJUjXXkFMHj-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="wn6hKRwQkjJUjXXkFMHj-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-300" y="-9" />
+              <mxPoint x="-300" y="-176" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wn6hKRwQkjJUjXXkFMHj-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="可回溯应用（2台）" vertex="1">
           <mxGeometry height="60" width="132" x="-521" y="-54" as="geometry" />
@@ -384,10 +436,10 @@
           <mxGeometry height="37" width="70" x="-559" y="-129" as="geometry" />
         </mxCell>
         <mxCell id="wn6hKRwQkjJUjXXkFMHj-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="nas共享存储&lt;div&gt;（旧双录视频文件）&lt;/div&gt;" vertex="1">
-          <mxGeometry height="45" width="118" x="-476" y="-483" as="geometry" />
+          <mxGeometry height="45" width="118" x="-476" y="-480" as="geometry" />
         </mxCell>
         <mxCell id="wn6hKRwQkjJUjXXkFMHj-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="nas共享存储&lt;div&gt;（旧双录视频文件）&lt;/div&gt;" vertex="1">
-          <mxGeometry height="45" width="118" x="-482" y="-133" as="geometry" />
+          <mxGeometry height="45" width="118" x="-482" y="-129" as="geometry" />
         </mxCell>
         <mxCell id="wn6hKRwQkjJUjXXkFMHj-84" edge="1" parent="1" source="wn6hKRwQkjJUjXXkFMHj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.188;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" target="wn6hKRwQkjJUjXXkFMHj-11">
           <mxGeometry relative="1" as="geometry" />
@@ -480,6 +532,19 @@
               <mxPoint x="-403" y="-500" />
             </Array>
             <mxPoint x="-403" y="-490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wn6hKRwQkjJUjXXkFMHj-162" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.207;entryY=0.906;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-820" y="-166.5" as="sourcePoint" />
+            <mxPoint x="-820.5700000000002" y="-294.8800000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wn6hKRwQkjJUjXXkFMHj-172" edge="1" parent="1" source="wn6hKRwQkjJUjXXkFMHj-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.004;entryY=0.877;entryDx=0;entryDy=0;entryPerimeter=0;" target="wn6hKRwQkjJUjXXkFMHj-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-422" y="18" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
