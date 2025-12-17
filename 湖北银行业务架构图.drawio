@@ -33,7 +33,7 @@
         <mxCell id="kePeb5dxKUNnMlZQDr-R-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="手机银行&lt;div&gt;ios/Android/鸿蒙&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="62.5" width="94" x="247" y="231" as="geometry" />
         </mxCell>
-        <mxCell id="kePeb5dxKUNnMlZQDr-R-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;fillColor=#cdeb8b;strokeColor=#36393d;" value="只能柜台&lt;div&gt;信创系统&lt;/div&gt;" vertex="1">
+        <mxCell id="kePeb5dxKUNnMlZQDr-R-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;fillColor=#cdeb8b;strokeColor=#36393d;" value="智能柜台&lt;div&gt;信创系统&lt;/div&gt;" vertex="1">
           <mxGeometry height="62.5" width="94" x="706" y="231" as="geometry" />
         </mxCell>
         <mxCell id="kePeb5dxKUNnMlZQDr-R-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;font style=&quot;color: rgb(234, 107, 102);&quot;&gt;&lt;b&gt;音视频集群&lt;/b&gt;&lt;/font&gt;" vertex="1">
