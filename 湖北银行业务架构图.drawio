@@ -199,7 +199,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wcGz0-fSCGF_GX8kyvzU-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="670" width="120" x="-1683" y="-870" as="geometry" />
+          <mxGeometry height="670" width="120" x="-1683" y="-867" as="geometry" />
         </mxCell>
         <mxCell id="wn6hKRwQkjJUjXXkFMHj-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="306" width="989" x="-1179" y="-869" as="geometry" />
@@ -600,6 +600,9 @@
         </mxCell>
         <mxCell id="wcGz0-fSCGF_GX8kyvzU-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="办公区" vertex="1">
           <mxGeometry height="30" width="60" x="-147" y="-872" as="geometry" />
+        </mxCell>
+        <mxCell id="wcGz0-fSCGF_GX8kyvzU-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="互联网" vertex="1">
+          <mxGeometry height="30" width="60" x="-1653" y="-870.27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
