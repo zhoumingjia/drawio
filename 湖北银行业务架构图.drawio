@@ -731,19 +731,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AieAmx8mCEPj3CQ-uyQU-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;flipV=0;flipH=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#fad7ac;strokeColor=#b46504;" value="第一笔双录流水" vertex="1">
-          <mxGeometry height="60" width="120" x="1380" y="1000" as="geometry" />
+          <mxGeometry height="60" width="120" x="1292" y="1010" as="geometry" />
         </mxCell>
         <mxCell id="AieAmx8mCEPj3CQ-uyQU-33" parent="1" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="第二笔双录流水" vertex="1">
-          <mxGeometry height="60" width="120" x="1110" y="1170" as="geometry" />
+          <mxGeometry height="60" width="120" x="1022" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="AieAmx8mCEPj3CQ-uyQU-35" parent="1" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#d0cee2;strokeColor=#56517e;" value="第三笔双录流水" vertex="1">
-          <mxGeometry height="60" width="120" x="1290" y="1170" as="geometry" />
+          <mxGeometry height="60" width="120" x="1202" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="AieAmx8mCEPj3CQ-uyQU-38" parent="1" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#bac8d3;strokeColor=#23445d;" value="第四笔双录流水" vertex="1">
-          <mxGeometry height="60" width="120" x="1470" y="1170" as="geometry" />
+          <mxGeometry height="60" width="120" x="1382" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="AieAmx8mCEPj3CQ-uyQU-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="......" vertex="1">
-          <mxGeometry height="60" width="120" x="1650" y="1170" as="geometry" />
+          <mxGeometry height="60" width="120" x="1562" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="AieAmx8mCEPj3CQ-uyQU-46" edge="1" parent="1" source="AieAmx8mCEPj3CQ-uyQU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" target="AieAmx8mCEPj3CQ-uyQU-33">
           <mxGeometry relative="1" as="geometry" />
@@ -758,7 +758,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AieAmx8mCEPj3CQ-uyQU-44" parent="1" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;curveFitting=1;jiggle=2;shadow=1;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="1430" y="1110" as="geometry" />
+          <mxGeometry height="20" width="20" x="1342" y="1120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
