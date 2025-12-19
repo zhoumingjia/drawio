@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="29.2.6" pages="2">
-  <diagram id="0" name="第 1 页">
-    <mxGraphModel dx="964" dy="536" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="29.2.7" pages="3">
+  <diagram id="0" name="业务架构图">
+    <mxGraphModel dx="1025" dy="429" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,8 +193,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="yI6dta_zg91MxAq-SMwk" name="第 2 页">
-    <mxGraphModel dx="3548" dy="3908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+  <diagram id="yI6dta_zg91MxAq-SMwk" name="技术架构图">
+    <mxGraphModel dx="3364" dy="3729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -606,6 +606,70 @@
         </mxCell>
         <mxCell id="wcGz0-fSCGF_GX8kyvzU-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="互联网" vertex="1">
           <mxGeometry height="30" width="60" x="-1653" y="-870.27" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="okDqLGGv1C3oo5izn-ej" name="理财双录流水整改_临时方案">
+    <mxGraphModel dx="1025" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6A6gLVUsFuovEebIhShF-1" edge="1" parent="1" source="6A6gLVUsFuovEebIhShF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" target="6A6gLVUsFuovEebIhShF-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A6gLVUsFuovEebIhShF-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;flipH=0;flipV=1;" value="开始第一笔理财双录" vertex="1">
+          <mxGeometry height="60" width="120" x="1080" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="6A6gLVUsFuovEebIhShF-3" edge="1" parent="1" source="6A6gLVUsFuovEebIhShF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" target="6A6gLVUsFuovEebIhShF-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A6gLVUsFuovEebIhShF-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;flipH=0;flipV=1;" value="质检通过" vertex="1">
+          <mxGeometry height="60" width="120" x="1280" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="6A6gLVUsFuovEebIhShF-5" edge="1" parent="1" source="6A6gLVUsFuovEebIhShF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" target="6A6gLVUsFuovEebIhShF-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A6gLVUsFuovEebIhShF-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;flipH=0;flipV=1;" value="理财系统关联" vertex="1">
+          <mxGeometry height="60" width="120" x="1480" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="6A6gLVUsFuovEebIhShF-7" edge="1" parent="1" source="6A6gLVUsFuovEebIhShF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" target="6A6gLVUsFuovEebIhShF-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A6gLVUsFuovEebIhShF-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#ffe6cc;strokeColor=#d79b00;flipH=0;flipV=1;" value="开始第二笔双录" vertex="1">
+          <mxGeometry height="60" width="120" x="1080" y="477" as="geometry" />
+        </mxCell>
+        <mxCell id="6A6gLVUsFuovEebIhShF-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;flipH=0;flipV=1;" value="需要整改" vertex="1">
+          <mxGeometry height="60" width="120" x="1680" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="6A6gLVUsFuovEebIhShF-10" edge="1" parent="1" source="6A6gLVUsFuovEebIhShF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" target="6A6gLVUsFuovEebIhShF-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A6gLVUsFuovEebIhShF-11" edge="1" parent="1" source="6A6gLVUsFuovEebIhShF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="6A6gLVUsFuovEebIhShF-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1340" y="407" />
+              <mxPoint x="1140" y="407" />
+            </Array>
+            <mxPoint x="1140" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6A6gLVUsFuovEebIhShF-12" connectable="0" parent="6A6gLVUsFuovEebIhShF-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="把第二笔的流水号数据&lt;div&gt;插入到第一笔的流水记录中&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1236" y="-1" as="geometry">
+            <mxPoint x="22" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6A6gLVUsFuovEebIhShF-13" parent="1" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;flipH=0;flipV=1;" value="填写第一步的流水号" vertex="1">
+          <mxGeometry height="60" width="120" x="1280" y="477" as="geometry" />
+        </mxCell>
+        <mxCell id="6A6gLVUsFuovEebIhShF-14" edge="1" parent="1" source="6A6gLVUsFuovEebIhShF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" target="6A6gLVUsFuovEebIhShF-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A6gLVUsFuovEebIhShF-15" parent="1" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;flipH=0;flipV=1;" value="质检通过" vertex="1">
+          <mxGeometry height="60" width="120" x="1480" y="477" as="geometry" />
+        </mxCell>
+        <mxCell id="6A6gLVUsFuovEebIhShF-16" parent="1" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;flipH=0;flipV=1;" value="理财不需要关联" vertex="1">
+          <mxGeometry height="60" width="120" x="1680" y="477" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
